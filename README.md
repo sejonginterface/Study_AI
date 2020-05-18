@@ -10,7 +10,7 @@
 |1|Dive into AI|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/1%EC%A3%BC%EC%B0%A8_1%EA%B0%95.pdf)|[유튜브](https://youtu.be/trpAbbBUm0M)|
 |1|인공지능을 위한 수학|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/1%EC%A3%BC%EC%B0%A8_2%EA%B0%95.pdf)|[유튜브](https://youtu.be/BJ0GfyoFgZM)|
 |실습|Teachable Machine으로 인공지능 체험하기|[Teachable Machine](https://teachablemachine.withgoogle.com/)||
-|2|선형 회귀와 Convexity||||
+|2|선형 회귀와 Convexity|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/2%EC%A3%BC%EC%B0%A8_1%EA%B0%95.pdf)|||
 |실습|선형 회귀|[코랩](http://colab.research.google.com/)||
 |3|선형 분류|||
 |실습|선형 분류|||
