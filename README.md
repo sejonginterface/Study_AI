@@ -12,7 +12,7 @@
 |실습|Teachable Machine으로 인공지능 체험하기|[Teachable Machine](https://teachablemachine.withgoogle.com/)||
 |2|선형 회귀와 Convexity|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/2%EC%A3%BC%EC%B0%A8_1%EA%B0%95.pdf)|||
 |실습|선형 회귀|[코랩](http://colab.research.google.com/), [실습](https://github.com/sejonginterface/Study_AI/blob/master/1.%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)||
-|3|선형 분류|||
+|3|선형 분류|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/2%EC%A3%BC%EC%B0%A8_1%EA%B0%95.pdf)||
 |실습|선형 분류|||
 |4|퍼셉트론과 심층 신경망(DNN)|||
 |실습|손글씨 분류 문제|||
