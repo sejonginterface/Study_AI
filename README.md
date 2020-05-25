@@ -10,7 +10,7 @@
 |1|Dive into AI|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/1%EC%A3%BC%EC%B0%A8_1%EA%B0%95.pdf)|[유튜브](https://youtu.be/trpAbbBUm0M)|
 |1|인공지능을 위한 수학|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/1%EC%A3%BC%EC%B0%A8_2%EA%B0%95.pdf)|[유튜브](https://youtu.be/BJ0GfyoFgZM)|
 |실습|Teachable Machine으로 인공지능 체험하기|[Teachable Machine](https://teachablemachine.withgoogle.com/)||
-|2|선형 회귀와 Convexity|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/2%EC%A3%BC%EC%B0%A8.pdf)|||
+|2|선형 회귀와 Convexity|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/2%EC%A3%BC%EC%B0%A8.pdf)|[유튜브](https://youtu.be/JZuVEoBB3XA)|
 |실습|선형 회귀|[코랩](http://colab.research.google.com/), [실습](https://github.com/sejonginterface/Study_AI/blob/master/1.%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)||
 |3|선형 분류|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/3%EC%A3%BC%EC%B0%A8.pdf)||
 |실습|선형 분류|[이진분류](https://github.com/sejonginterface/Study_AI/blob/master/2.%EC%9D%B4%EC%A7%84%20%EB%B6%84%EB%A5%98(%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1_%ED%9A%8C%EA%B7%80).ipynb), [다중분류](https://github.com/sejonginterface/Study_AI/blob/master/3.%EB%8B%A4%EC%A4%91%20%EB%B6%84%EB%A5%98%20(Multi-Class%20Classification).ipynb)||
