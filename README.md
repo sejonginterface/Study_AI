@@ -16,8 +16,8 @@
 |실습|선형 분류|[이진분류](https://github.com/sejonginterface/Study_AI/blob/master/2.%EC%9D%B4%EC%A7%84%20%EB%B6%84%EB%A5%98(%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1_%ED%9A%8C%EA%B7%80).ipynb), [다중분류](https://github.com/sejonginterface/Study_AI/blob/master/3.%EB%8B%A4%EC%A4%91%20%EB%B6%84%EB%A5%98%20(Multi-Class%20Classification).ipynb)||
 |4|퍼셉트론과 심층 신경망(DNN)|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/4%EC%A3%BC%EC%B0%A8.pdf)|[유튜브](https://youtu.be/tqqU2n8cCpk)|
 |실습|손글씨 분류 문제|[실습](https://github.com/sejonginterface/Study_AI/blob/master/4.%EC%8B%AC%EC%B8%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)||
-|5|심층 신경망의 적용|||
-|실습|리그오브레전드 승패 예측하기|||
+|5|심층 신경망의 적용|[슬라이드](https://github.com/sejonginterface/Study_AI/blob/master/slides/5%EC%A3%BC%EC%B0%A8.pdf)||
+|실습|리그오브레전드 승패 예측하기|[실습](https://github.com/sejonginterface/Study_AI/tree/master/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%8A%B9%ED%8C%A8%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0)||
 
 ## 독학하기
 아래 자료들은 스터디 참여를 위해 필요한 배경 지식이나, 스터디에서 다루지 않은 심화적인 부분을 다루는 자료들입니다.   
