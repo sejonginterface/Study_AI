@@ -5,7 +5,7 @@
 	- 서버 참여하기: https://discord.gg/ePce2F
 - 인터페이스 회원/비회원 관계없이 참여가능
 -->
-Instructor: [백지오](https://github.com/skyil7]   
+Instructor: [백지오](https://github.com/skyil7)   
 강의 영상은 유튜브에서 보실 수 있습니다!
 
 ## 스터디 계획
